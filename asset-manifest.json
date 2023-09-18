@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Riya10-coder/task/tree/master/react-practice/react-practice/static/css/main.de832e21.css",
+    "main.js": "/Riya10-coder/task/tree/master/react-practice/react-practice/static/js/main.9dfbde1b.js",
+    "static/js/787.7bccd639.chunk.js": "/Riya10-coder/task/tree/master/react-practice/react-practice/static/js/787.7bccd639.chunk.js",
+    "index.html": "/Riya10-coder/task/tree/master/react-practice/react-practice/index.html",
+    "main.de832e21.css.map": "/Riya10-coder/task/tree/master/react-practice/react-practice/static/css/main.de832e21.css.map",
+    "main.9dfbde1b.js.map": "/Riya10-coder/task/tree/master/react-practice/react-practice/static/js/main.9dfbde1b.js.map",
+    "787.7bccd639.chunk.js.map": "/Riya10-coder/task/tree/master/react-practice/react-practice/static/js/787.7bccd639.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de832e21.css",
+    "static/js/main.9dfbde1b.js"
+  ]
+}
